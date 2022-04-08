@@ -1,1 +1,1 @@
-# Assignment & class examples collection for Machine learning 620
+# Machine learning 620
