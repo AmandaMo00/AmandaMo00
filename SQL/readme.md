@@ -2,7 +2,16 @@
 ## Requirements  
 
 
-1. Referring to the model developed in Assignment 6, create a factory and a batch table using the code in Appendix B.  This code will also insert sample data for each table. 2. Use the two provided files (batch_stage.csv and factory_stage.csv) to create two new tables and populate them with data. 3. Write MERGE statements that synchronize each pair of tables (batch synchronizes with batch_stage, factory synchronizes with factory_stage) by inserting and updating.  The batch and factory tables should house the most complete and updated data after the MERGE statements are executed.  Be sure to put the MERGE statements in the correct order. 4. Submit the two MERGE statements in one .SQL file before the deadline.   
+1. Referring to the model developed in Assignment 6, create a factory and a batch table using the code in Appendix B.  This code will also insert sample data for each table.   
+
+
+2. Use the two provided files (batch_stage.csv and factory_stage.csv) to create two new tables and populate them with data.   
+
+
+3. Write MERGE statements that synchronize each pair of tables (batch synchronizes with batch_stage, factory synchronizes with factory_stage) by inserting and updating.  The batch and factory tables should house the most complete and updated data after the MERGE statements are executed.  Be sure to put the MERGE statements in the correct order. 
+
+
+4. Submit the two MERGE statements in one .SQL file before the deadline.     
 
 
 /*CREATING BATCH & FACTORY */  
