@@ -1,0 +1,12 @@
+name: final
+title:
+username:
+account: huiyiproject
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1610458
+bundleId: 2679618
+url: https://huiyiproject.shinyapps.io/final/
+when: 1576710996.24359
+asMultiple: FALSE
+asStatic: FALSE
