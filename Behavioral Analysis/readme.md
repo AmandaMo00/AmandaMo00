@@ -1,6 +1,3 @@
-1
-For Lego Case:
-
 Applying Hypothesis T-Tests:  
 
 H0: The mean of Lego price that has minifigs is equal to that of does not have minifigs.  
